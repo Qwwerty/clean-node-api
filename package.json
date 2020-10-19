@@ -1,0 +1,7 @@
+{
+  "name": "node-ro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Vitor <jsoareez@gmail.com>",
+  "license": "MIT"
+}
